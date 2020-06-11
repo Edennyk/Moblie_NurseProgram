@@ -14,8 +14,7 @@ Descripton
 
 Screenshots
 =
-<img src="https://user-images.githubusercontent.com/59883982/83423321-cc1eaa00-a3f8-11ea-849e-896bc5aa83a7.jpg" width="300"></img>
+<img src="https://user-images.githubusercontent.com/59883982/84432075-4968cc80-abfa-11ea-98d6-cafc34d7df7b.png" width="300"></img>
 
-<img src="https://user-images.githubusercontent.com/59883982/83423327-cde86d80-a3f8-11ea-9dee-25e013258e89.jpg" width="300"></img>
+<img src="https://user-images.githubusercontent.com/59883982/84432081-4b329000-abfa-11ea-92ec-b0407aa40775.png" width="300"></img>
 
-<img src="https://user-images.githubusercontent.com/59883982/83423334-cf199a80-a3f8-11ea-8831-1ba40a50d165.jpg" width="300"></img>
